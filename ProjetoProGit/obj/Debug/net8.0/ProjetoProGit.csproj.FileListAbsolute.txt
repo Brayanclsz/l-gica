@@ -1,0 +1,15 @@
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\bin\Debug\net8.0\ProjetoProGit.exe
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\bin\Debug\net8.0\ProjetoProGit.deps.json
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\bin\Debug\net8.0\ProjetoProGit.runtimeconfig.json
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\bin\Debug\net8.0\ProjetoProGit.dll
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\bin\Debug\net8.0\ProjetoProGit.pdb
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.AssemblyInfoInputs.cache
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.AssemblyInfo.cs
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.csproj.CoreCompileInputs.cache
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.sourcelink.json
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.dll
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\refint\ProjetoProGit.dll
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.pdb
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ProjetoProGit.genruntimeconfig.cache
+C:\Users\10607.115\Documents\Curso 06_05\GitHub\ProjetoProGit\obj\Debug\net8.0\ref\ProjetoProGit.dll
