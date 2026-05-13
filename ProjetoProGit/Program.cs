@@ -1,3 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, my name is Brayan");
-Console.WriteLine("Hw are you today?");
+Console.WriteLine("Digite seu nome: ");
+string nome = Console.ReadLine();
+Console.WriteLine("Digite sua senha: ");
+int idade = int.Parse(Console.ReadLine());
+Console.WriteLine(nome, idade);
