@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoProGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0219860b0e036e0cfe775f93c340ee604a00711")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f757bd8759da16784c47648d16b2c1cd512f832")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoProGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoProGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

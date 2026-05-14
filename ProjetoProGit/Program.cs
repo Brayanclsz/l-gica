@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("-----Questionário-----");
+
 Console.WriteLine("Digite seu nome: ");
 string nome = Console.ReadLine();
 
@@ -11,18 +13,19 @@ double altura = double.Parse(Console.ReadLine());
 Console.WriteLine("Você tem CNH? ");
 string cnhResposta = Console.ReadLine();
 
-
 string responsividadeCNH;
 if(cnhResposta.ToLower() != "sim")
 {
-    responsividadeCNH = "Não possui CNH";
+    responsividadeCNH = "Você não possui CNH";
 }
 else
 {
-    responsividadeCNH = "Possui CNH";
+    responsividadeCNH = "Você possui CNH";
 }
 
-Console.WriteLine("Nome: "+ nome);
-Console.WriteLine("Idade: "+ idade + " anos");
-Console.WriteLine("Altura: "+ altura + "cm");
+Console.WriteLine("-----Dados-----");
+
+Console.WriteLine("Seu nome é: "+ nome);
+Console.WriteLine("Sua idade é: "+ idade + " anos");
+Console.WriteLine("Sua altura é: "+ altura + "cm");
 Console.WriteLine(responsividadeCNH);
